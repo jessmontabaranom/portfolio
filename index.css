@@ -10,13 +10,13 @@ h1{
   text-align: center;
 }
 .name {
-  color:#8585ad
+  color:#8585ad;
   margin:auto;
   font-family:"Times New Roman", Times, serif;
   background-color: #ffffff;
   font-size: 40px;
   letter-spacing: 1px;
-  background-image: url();
+  background-image: url(Save the Trees.png);
   background-size: 100%;
 }
 .current{
