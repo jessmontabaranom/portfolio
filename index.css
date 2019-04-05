@@ -1,7 +1,6 @@
 body{
-  color: #925a69;
+  color: #8585ad;
   margin:auto;
-  background-color: #15a5;
   font-family: "Times New Roman", Times, serif;
   font-size: 25px;
   letter-spacing: 1px;
@@ -9,37 +8,44 @@ body{
 }
 h1{
   text-align: center;
-
+}
+.name {
+  color:#8585ad
+  margin:auto;
+  font-family:"Times New Roman", Times, serif;
+  background-color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 1px;
+  background-image: url();
+  background-size: 100%;
+}
+.current{
+  color:#ffffff;
+  background-color: #8585ad;
+}
+.marine{
+  text-shadow: 2px 2px 5px #000000;
+}
 img{
-
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  border-radius: 25px;
+  width: 40%;
+  height:40%;
 }
-
-.dropbtn {
-  background-color: #925a69;
-  color: white;
-  padding: 35px;
-  font-size: 20px;
-  border: none;
-}
-
-.dropdown {
-  float:center;
-  position: relative;
+a:link, a:visited {
+  background-color: white;
+  color:#8585ad;
+  border: 2px solid #8585ad;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
   display: inline-block;
 }
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: #925a69;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
+
+a:hover, a:active {
+  color:#ffffff;
+  background-color:#8585ad;
 }
-.dropdown-content a {
-  color: white;
-  padding: 25px 10px;
-  text-decoration: none;
-  display: block;
-}
-.dropdown-content a:hover {background-color: #ddd}
-.show {display:block;}
