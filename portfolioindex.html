@@ -6,20 +6,47 @@
   <title> Jessica Montabaranom </title>
 
   </head>
-
+  <link href="css/styles.css" rel="stylesheet">
+  <link rel="stylesheet" href="index.css">
   <body>
-    <div class="">
+    <div class="name">
 
      <h1> <p> <b> <center> Jessica Montabaranom </center> </b> </p> </h1>
    </div>
 
    <div class=""> <center>
-   Welcome to my portfolio website, where I have put together my past and <span class="marine"> current marine conservation related experiences</span>.
+   <h2> <b> WORK IN PROGRESS </b> </h2> <br>
+   Welcome to my portfolio website, where I am putting together my past and <span class="marine"> current marine conservation related experiences</span>.
    <br>
      I am currently a 2nd year <span class="marine"> Marine Biology student </span> at the <b> University of Hull </b>.
    <br>
  </center>
    </div>
 
+   <div class="dropdown">
+     <button onclick="myFunction()" class="dropbtn">Experiences</button>
+     <div id="myDropdown" class="dropdown-content">
+       <a href="tanzania.html">Tanzania</a><br>
+       <a href="crru.html">Scotland</a>
+    </div>
+  </div>
+
+  <script>
+  function myFunction() {
+  document.getElementById("myDropdown").classList.toggle("show");
+}
+  window.onclick = function(event) {
+    if (!event.target.matches('.dropbtn')) {
+      var dropdowns = document.getElementsByClassName("dropdown-content");
+      var i;
+      for (i = 0; i < dropdowns.length; i++) {
+        var openDropdown = dropdowns[i];
+        if (openDropdown.classList.contains('show')) {
+          openDropdown.classList.remove('show');
+        }
+      }
+    }
+  }
+  </script>
   </body>
   </html>
