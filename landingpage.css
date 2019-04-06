@@ -25,7 +25,7 @@ a:hover, a:active {
   background-color:#8585ad;
 }
 .a{
-  font-size: 20px;
+  font-size: 25px;
   text-align: justify;
   margin: 20px;
 }
@@ -40,8 +40,6 @@ a:hover, a:active {
   width: auto;
   height: auto;
   margin-left: 35%;
-
-
 }
 .middle {
   transition: .5s ease;
@@ -52,7 +50,9 @@ a:hover, a:active {
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%)
 }
-
+.container:hover .image {
+  opacity: 0.5;
+}
 .container:hover .middle {
   opacity: 1;
 }
@@ -60,6 +60,6 @@ a:hover, a:active {
 .text {
   background-color: #8585ad;
   color: white;
-  font-size: 15px;
-  padding: 10px 20px;
+  font-size: 25px;
+  padding: 30px 30px;
 }
