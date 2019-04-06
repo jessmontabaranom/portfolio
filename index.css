@@ -15,10 +15,11 @@ h2{
   text-align: center;
   font-family:"Times New Roman", Times, serif;
   background-color: #ffffff;
-  font-size: 40px;
+  font-size: 60px;
   letter-spacing: 1px;
   background-image: url("");
   background-size: 100%;
+  font-variant: small-caps;
 }
 .current{
   color:#ffffff;
@@ -57,16 +58,7 @@ a:hover, a:active {
   color:#ffffff;
   background-color:#8585ad;
 }
-.column {
-  float: left;
-  width: 33.33%;
-}
 
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
 
 .dropbtn {
   background-color: #ffffff;
@@ -78,13 +70,11 @@ a:hover, a:active {
 
 }
 
-/* The container <div> - needed to position the dropdown content */
 .dropdown {
   position: relative;
   display: inline-block;
 }
 
-/* Dropdown Content (Hidden by Default) */
 .dropdown-content {
   display: none;
   position: absolute;
@@ -93,7 +83,6 @@ a:hover, a:active {
   z-index: 1;
 }
 
-/* Links inside the dropdown */
 .dropdown-content a {
   color:#8585ad ;
   padding: 10px 20px;
@@ -101,14 +90,11 @@ a:hover, a:active {
   display: block;
 }
 
-/* Change color of dropdown links on hover */
 .dropdown-content a:hover {background-color: #8585ad;
 color: #ffffff}
 
-/* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {display: block;}
 
-/* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: #8585ad;
   color: #ffffff
 }
@@ -137,8 +123,6 @@ li a {
   padding: 10px 10px;
   text-decoration: none;
 }
-
-/* Change the link color to #111 (black) on hover */
 li a:hover {
   background-color: #blue;
 }
