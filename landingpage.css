@@ -1,17 +1,15 @@
 body{
-  color: #8585ad;
-  margin:auto;
+  color: #ffffff;
+  margin: 0 auto;
   font-family: "Times New Roman", Times, serif;
   font-size: 25px;
   letter-spacing: 1px;
   word-spacing: 2px;
-  background-image:url("<div class="canva-embed" data-design-id="DADWXhURn2s" data-height-ratio="1.5000" style="padding:150.0000% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"></div><script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script><a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DADWXhURn2s&#x2F;view?utm_content=DADWXhURn2s&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Jessica Montabaranom Student Marine Bioligist </a> par <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;jessmont3?utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Jessica Montabaranom</a>");
-}
-.a{
-  font-size: 20px;
+  display: block;
+  background-color: #ffffff;
   text-align: center;
-  margin: 20px;
 }
+
 a:link, a:visited {
   background-color: white;
   color:#8585ad;
@@ -25,4 +23,43 @@ a:link, a:visited {
 a:hover, a:active {
   color:#ffffff;
   background-color:#8585ad;
+}
+.a{
+  font-size: 20px;
+  text-align: justify;
+  margin: 20px;
+}
+.container {
+  position: middle;
+  width: 60%;
+  align-items: center;
+
+}
+.image{
+  object-fit: cover;
+  width: auto;
+  height: auto;
+  margin-left: 35%;
+
+
+}
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%)
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  background-color: #8585ad;
+  color: white;
+  font-size: 15px;
+  padding: 10px 20px;
 }
