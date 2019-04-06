@@ -12,6 +12,7 @@ h2{
 .name {
   color:#8585ad;
   margin:auto;
+  text-align: center;
   font-family:"Times New Roman", Times, serif;
   background-color: #ffffff;
   font-size: 40px;
@@ -40,6 +41,7 @@ img{
 .a{
   font-size: 20px;
   text-align: justify;
+  margin: 20px;
 }
 a:link, a:visited {
   background-color: white;
