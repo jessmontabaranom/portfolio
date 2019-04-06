@@ -112,3 +112,37 @@ color: #ffffff}
 .dropdown:hover .dropbtn {background-color: #8585ad;
   color: #ffffff
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #8585ad;
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 10px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #blue;
+}
+
+.active {
+  background-color: #b3d9ff;
+}
