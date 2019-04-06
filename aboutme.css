@@ -1,0 +1,38 @@
+body{
+  color: #8585ad;
+  margin:auto;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 25px;
+  letter-spacing: 1px;
+  word-spacing: 2px;
+  background-image:image("");
+}
+.a{
+  font-size: 20px;
+  text-align: center;
+  margin: 20px;
+}
+img{
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  border-radius: 50px;
+  width: 25%;
+  height:25%;
+}
+
+a:link, a:visited {
+  background-color: white;
+  color:#8585ad;
+  border: 2px solid #8585ad;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  color:#ffffff;
+  background-color:#8585ad;
+}
