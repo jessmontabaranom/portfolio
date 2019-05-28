@@ -1,5 +1,5 @@
 body{
-  color: #8585ad;
+  color: #85a3e0;
   margin:auto;
   font-family: "Times New Roman", Times, serif;
   font-size: 25px;
@@ -23,7 +23,7 @@ h2{
 }
 .current{
   color:#ffffff;
-  background-color: #8585ad;
+  background-color: #85a3e0;
   text-align: justify;
   font-size: 20px;
 }
@@ -46,8 +46,8 @@ img{
 }
 a:link, a:visited {
   background-color: white;
-  color:#8585ad;
-  border: 2px solid #8585ad;
+  color:#85a3e0;
+  border: 2px solid #85a3e0;
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
@@ -56,16 +56,16 @@ a:link, a:visited {
 
 a:hover, a:active {
   color:#ffffff;
-  background-color:#8585ad;
+  background-color:#85a3e0;
 }
 
 
 .dropbtn {
   background-color: #ffffff;
-  color: #8585ad;
+  color: #85a3e0;
   padding: 10px 20px;
   font-size: 20px;
-  border: 2px solid #8585ad;
+  border: 2px solid #85a3e0;
   font-family:"Times New Roman", Times, serif;
 
 }
@@ -78,24 +78,24 @@ a:hover, a:active {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #8585ad;
+  background-color: #85a3e0;
   min-width: 160px;
   z-index: 1;
 }
 
 .dropdown-content a {
-  color:#8585ad ;
+  color:#85a3e0 ;
   padding: 10px 20px;
   text-decoration: none;
   display: block;
 }
 
-.dropdown-content a:hover {background-color: #8585ad;
+.dropdown-content a:hover {background-color: #85a3e0;
 color: #ffffff}
 
 .dropdown:hover .dropdown-content {display: block;}
 
-.dropdown:hover .dropbtn {background-color: #8585ad;
+.dropdown:hover .dropbtn {background-color: #85a3e0;
   color: #ffffff
 }
 
@@ -104,7 +104,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #8585ad;
+  background-color: #85a3e0;
   font-size: 20px;
   font-family: "Times New Roman", Times, serif;
   position: fixed;
