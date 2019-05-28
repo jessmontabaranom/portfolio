@@ -12,8 +12,8 @@ body{
 
 a:link, a:visited {
   background-color: white;
-  color:#8585ad;
-  border: 2px solid #8585ad;
+  color:#85a3e0;
+  border: 2px solid #85a3e0;
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
@@ -22,7 +22,7 @@ a:link, a:visited {
 
 a:hover, a:active {
   color:#ffffff;
-  background-color:#8585ad;
+  background-color:#85a3e0;
 }
 .a{
   font-size: 25px;
@@ -58,7 +58,7 @@ a:hover, a:active {
 }
 
 .text {
-  background-color: #8585ad;
+  background-color: #85a3e0;
   color: white;
   font-size: 25px;
   padding: 30px 30px;
