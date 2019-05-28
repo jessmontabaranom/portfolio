@@ -1,5 +1,5 @@
 body{
-  color: #8585ad;
+  color: #85a3e0;
   margin:auto;
   font-family: "Times New Roman", Times, serif;
   font-size: 25px;
@@ -23,13 +23,13 @@ img{
 }
 .title{
   text-decoration: underline;
-  
+
 }
 
 a:link, a:visited {
   background-color: white;
-  color:#8585ad;
-  border: 2px solid #8585ad;
+  color:#85a3e0;
+  border: 2px solid #85a3e0;
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
@@ -38,14 +38,14 @@ a:link, a:visited {
 
 a:hover, a:active {
   color:#ffffff;
-  background-color:#8585ad;
+  background-color:#85a3e0;
 }
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #8585ad;
+  background-color: #85a3e0;
   font-size: 20px;
   font-family: "Times New Roman", Times, serif;
   position: fixed;
