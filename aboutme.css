@@ -21,6 +21,10 @@ img{
   height: auto;
 
 }
+.title{
+  text-decoration: underline;
+  
+}
 
 a:link, a:visited {
   background-color: white;

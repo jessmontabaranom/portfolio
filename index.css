@@ -18,6 +18,7 @@ h2{
   font-size: 50px;
   letter-spacing: 1px;
   font-variant: small-caps;
+  background-image: url("coast.jpg");
 }
 .current{
   color:#ffffff;
