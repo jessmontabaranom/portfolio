@@ -19,7 +19,7 @@ h2{
   letter-spacing: 1px;
   font-variant: small-caps;
   background-image: url("jelly.jpeg");
-  background-size: contain;
+  background-size:auto;
 }
 .current{
   color:#ffffff;
