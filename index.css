@@ -10,12 +10,11 @@ h2{
   text-align: center;
 }
 .name {
-  color: white;
+  color:#ffffff;
   margin:auto;
   text-align: center;
   font-family:"Times New Roman", Times, serif;
-  background-color: #ffffff;
-  font-size: 50px;
+  font-size: 60px;
   letter-spacing: 1px;
   font-variant: small-caps;
   background-image: url("jelly.jpeg");
