@@ -10,7 +10,7 @@ h2{
   text-align: center;
 }
 .name {
-  color:#ffffff;
+  color: white;
   margin:auto;
   text-align: center;
   font-family:"Times New Roman", Times, serif;
@@ -19,7 +19,7 @@ h2{
   letter-spacing: 1px;
   font-variant: small-caps;
   background-image: url("jelly.jpeg");
-  background-size:auto;
+  background-size:cover;
 }
 .current{
   color:#ffffff;
