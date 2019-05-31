@@ -66,7 +66,7 @@ a:hover, a:active {
   padding: 10px 20px;
   font-size: 20px;
   border: 2px solid #85a3e0;
-  font-family:"Times New Roman", Times, serif;
+  font-family:"Didact Gothic", Times, serif;
 
 }
 
@@ -106,7 +106,7 @@ ul {
   overflow: hidden;
   background-color: #85a3e0;
   font-size: 20px;
-  font-family: "Times New Roman", Times, serif;
+  font-family: "Didact Gothic", Times, serif;
   position: fixed;
   top: 0;
   width: 100%;
