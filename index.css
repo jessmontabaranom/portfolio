@@ -1,5 +1,5 @@
 body{
-  color: #404040;
+  color: #737373;
   margin:auto;
   font-family: 'Didact Gothic', Times, serif;
   font-size: 25px;
@@ -22,7 +22,7 @@ h2{
   background-repeat: no-repeat;
 }
 .current{
-  color:#404040;
+  color:#737373;
   background-color: #ffffff;
   text-align: justify;
   font-size: 20px;
@@ -46,8 +46,8 @@ img{
 }
 a:link, a:visited {
   background-color: white;
-  color:#404040;
-  border: 1px solid #404040;
+  color:#737373;
+  border: 2px solid #737373;
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
@@ -56,16 +56,16 @@ a:link, a:visited {
 
 a:hover, a:active {
   color:#ffffff;
-  background-color:#404040;
+  background-color:#737373;
 }
 
 
 .dropbtn {
   background-color: #ffffff;
-  color: #404040;
+  color: #737373;
   padding: 10px 20px;
   font-size: 20px;
-  border: 1px solid #404040;
+  border: 2px solid #737373;
   font-family:"Didact Gothic", Times, serif;
 
 }
@@ -78,24 +78,24 @@ a:hover, a:active {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #404040;
+  background-color: #737373;
   min-width: 160px;
   z-index: 1;
 }
 
 .dropdown-content a {
-  color:#404040 ;
+  color:#737373;
   padding: 10px 20px;
   text-decoration: none;
   display: block;
 }
 
-.dropdown-content a:hover {background-color: #404040;
+.dropdown-content a:hover {background-color: #737373;
 color: #ffffff}
 
 .dropdown:hover .dropdown-content {display: block;}
 
-.dropdown:hover .dropbtn {background-color: #404040;
+.dropdown:hover .dropbtn {background-color: #737373;
   color: #ffffff
 }
 
@@ -104,7 +104,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #404040;
+  background-color: #737373;
   font-size: 20px;
   font-family: "Didact Gothic", Times, serif;
   position: fixed;
