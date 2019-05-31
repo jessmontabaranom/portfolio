@@ -47,7 +47,7 @@ img{
 a:link, a:visited {
   background-color: white;
   color:#85a3e0;
-  border: 3px solid #85a3e0;
+  border: 1px solid #85a3e0;
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
@@ -65,7 +65,7 @@ a:hover, a:active {
   color: #85a3e0;
   padding: 10px 20px;
   font-size: 20px;
-  border: 3px solid #85a3e0;
+  border: 1px solid #85a3e0;
   font-family:"Didact Gothic", Times, serif;
 
 }
