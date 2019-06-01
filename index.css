@@ -24,21 +24,18 @@ h2{
 .current{
   color:#737373;
   background-color: #ffffff;
-  text-align: justify;
+  text-align: left;
   font-size: 20px;
   margin: 50px 20px;
-}
-.marine{
-  text-shadow: 2px 2px 5px #000000;
 }
 img{
   display: flex;
   margin-left: auto;
   margin-right: auto;
-  align-items: center;
+  align-items: left;
   border-radius: 50px;
-  width: 30%;
-  height:30%;
+  width: 20%;
+  height:20%;
 }
 
 .a{
