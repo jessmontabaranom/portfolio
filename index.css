@@ -34,6 +34,7 @@ img{
   border-radius: 75px;
   width: 30%;
   height:30%;
+  float: left;
 }
 
 .a{
