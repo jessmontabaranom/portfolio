@@ -58,45 +58,6 @@ a:hover, a:active {
   background-color:#737373;
 }
 
-.dropbtn {
-  background-color: #ffffff;
-  color: #737373;
-  padding: 10px 20px;
-  font-size: 20px;
-  border: 2px solid #737373;
-  font-family:"Didact Gothic", Times, serif;
-
-}
-
-.dropdown {
-  position: relative;
-  display: inline-block;
-}
-
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: #737373;
-  min-width: 160px;
-  z-index: 1;
-}
-
-.dropdown-content a {
-  color:#737373;
-  padding: 10px 20px;
-  text-decoration: none;
-  display: block;
-}
-
-.dropdown-content a:hover {background-color: #737373;
-color: #ffffff}
-
-.dropdown:hover .dropdown-content {display: block;}
-
-.dropdown:hover .dropbtn {background-color: #737373;
-  color: #ffffff
-}
-
 ul {
   list-style-type: none;
   margin: 0;
