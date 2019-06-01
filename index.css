@@ -61,7 +61,6 @@ a:hover, a:active {
   background-color:#737373;
 }
 
-
 .dropbtn {
   background-color: #ffffff;
   color: #737373;
@@ -156,7 +155,7 @@ li a:hover {
   margin: 50px 20px;
 }
 @media screen and (max-width: 700px) {
-  .row, .navbar {
+  .row {
     flex-direction: column;
   }
 }
