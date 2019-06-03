@@ -96,7 +96,9 @@ li a:hover {
   flex: 30%;
   background-color: #f1f1f1;
   padding: 20px;
+  margin: auto;
   font-size: 20px;
+  text-align: center;
 }
 
 .main {
@@ -104,6 +106,7 @@ li a:hover {
   background-color: white;
   padding: 20px;
   font-size: 20px;
+  text-align: justify;
 }
 .footer {
   padding: 10px;
