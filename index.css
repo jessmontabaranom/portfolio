@@ -96,13 +96,12 @@ li a:hover {
   flex: 30%;
   background-color: #f1f1f1;
   padding: 20px;
-  margin: 50px 20px;
+
 }
 .main {
   flex: 70%;
   background-color: white;
   padding: 20px;
-  margin: 50px 20px;
 }
 .footer {
   padding: 10px;
@@ -114,7 +113,7 @@ li a:hover {
   .row {
     flex-direction: column;
   }
-  
+
   .fa {
     padding: 20px;
     font-size: 30px;
