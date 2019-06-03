@@ -114,6 +114,7 @@ li a:hover {
   .row {
     flex-direction: column;
   }
+  
   .fa {
     padding: 20px;
     font-size: 30px;
