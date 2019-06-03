@@ -29,11 +29,11 @@ h2{
   margin: 50px 20px;
 }
 img{
-  display: flex;
-  align-items: left;
-  border-radius: 75px;
-  width: 30%;
-  height:30%;
+  display: block;
+  align-items: auto;
+  border-radius: 85px;
+  width: 35px;
+  height:35px;
 }
 
 .a{
