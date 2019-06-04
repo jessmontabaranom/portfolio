@@ -21,6 +21,10 @@ h2{
   background-size:auto;
   background-repeat: no-repeat;
 }
+.me{
+  font-size: 30px;
+  text-shadow: #d6e0f5;
+}
 
 img{
   display: flex;
