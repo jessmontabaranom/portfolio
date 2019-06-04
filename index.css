@@ -87,9 +87,6 @@ li a {
   padding: 10px 10px;
   text-decoration: none;
 }
-li a:hover {
-  background-color: #blue;
-}
 
 .active {
   background-color: #b3d9ff;
