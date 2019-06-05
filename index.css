@@ -89,10 +89,7 @@ li a {
 }
 .side {
   flex: 30%;
-  background-color: #ddd;
-  border-style: solid;
-  border-color: #737373;
-  border-width: 1px;
+  background-color: #f2f2f2;
   padding: 20px;
   margin: 30px;
   font-size: 20px;
