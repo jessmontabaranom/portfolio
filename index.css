@@ -88,7 +88,7 @@ li a {
 }
 .side {
   flex: 30%;
-  background-color: #f1f1f1;
+  background-color: #adc2eb;
   padding: 20px;
   margin: 30px;
   font-size: 20px;
@@ -106,7 +106,7 @@ li a {
 .footer {
   padding: 10px;
   text-align: center;
-  background: #ddd;
+  background: #d6e0f5;
   margin: 50px 20px;
   font-size: 20px;
 }
