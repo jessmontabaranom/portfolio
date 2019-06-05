@@ -88,8 +88,8 @@ li a {
 }
 .side {
   flex: 30%;
-  background-color: #e0ebeb;
-  border-style: groove;
+  background-color: #ddd;
+  border-style: solid;
   border-color: #737373;
   border-width: 1px;
   padding: 20px;
@@ -110,7 +110,7 @@ li a {
   padding: 10px;
   text-align: center;
   background: #d6e0f5;
-  border-style: groove;
+  border-style:solid;
   border-color: #737373;
   border-width: 5px;
   margin: 50px 20px;
