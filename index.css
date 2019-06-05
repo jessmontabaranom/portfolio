@@ -90,6 +90,8 @@ li a {
   flex: 30%;
   background-color: #e0ebeb;
   border-style: groove;
+  border-color: #737373;
+  border-width: 1px;
   padding: 20px;
   margin: 30px;
   font-size: 20px;
@@ -109,6 +111,8 @@ li a {
   text-align: center;
   background: #d6e0f5;
   border-style: groove;
+  border-color: #737373;
+  border-width: 5px;
   margin: 50px 20px;
   font-size: 20px;
 }
