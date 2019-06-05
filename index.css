@@ -108,6 +108,7 @@ li a {
   padding: 10px;
   text-align: center;
   background: #d6e0f5;
+  border-style: groove;
   margin: 50px 20px;
   font-size: 20px;
 }
