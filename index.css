@@ -88,7 +88,8 @@ li a {
 }
 .side {
   flex: 30%;
-  background-color: #adc2eb;
+  background-color: #e0ebeb;
+  border-style: groove;
   padding: 20px;
   margin: 30px;
   font-size: 20px;
