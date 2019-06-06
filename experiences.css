@@ -21,8 +21,17 @@ h2{
   background-size:auto;
   background-repeat: no-repeat;
 }
-.buttons{
-  
+.button1{
+  color:#ffffff;
+  margin:auto;
+  text-align: center;
+  font-family:"Didact Gothic", Times, serif;
+  font-size: 50px;
+  letter-spacing: 1px;
+  font-variant: small-caps;
+  background-image: url("IMG_3389.JPG");
+  background-size:auto;
+  background-repeat: no-repeat
 }
 .a{
   font-size: 20px;
