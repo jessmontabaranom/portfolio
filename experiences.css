@@ -9,6 +9,18 @@ body{
 h2{
   text-align: center;
 }
+.name {
+  color:#ffffff;
+  margin:auto;
+  text-align: center;
+  font-family:"Didact Gothic", Times, serif;
+  font-size: 50px;
+  letter-spacing: 1px;
+  font-variant: small-caps;
+  background-image: url("paint.jpeg");
+  background-size:auto;
+  background-repeat: no-repeat;
+}
 .a{
   font-size: 20px;
   text-align: justify;
